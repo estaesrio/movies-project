@@ -1,0 +1,86 @@
+*{
+  background-color: rgb(246, 223, 208);
+}
+
+.DIV{
+  width: 100%;  
+  padding-top: 20px;
+}
+
+.one{
+  width: 30%;
+  display: inline-block;
+}
+
+.two{
+  width: 30%;
+}
+
+.three{
+  width: 30%;
+}
+
+h1{
+  font-style: italic;
+  color: rgb(135, 94, 65);
+  padding-left: 8px;
+}
+
+h3{
+  text-decoration: underline;
+  padding-left: 10px;
+}
+
+p{
+  padding-left: 10px;
+}
+
+
+.DIV img{
+  float: right;
+  width: 170px; 
+  padding-right: 18px;
+  padding-top: 18px;
+ 
+}
+
+.one{
+  border: 1px solid; 
+  border-radius: 10px;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.two{
+  border: 1px solid; 
+  border-radius: 10px;
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.three{
+  border: 1px solid; 
+  border-radius: 10px;
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.image{
+  float: right;
+  width: 50%
+}
+
+figcaption{
+  text-align: left;
+}
+
+figure{
+  width: 50%;
+  padding-left: 37px;
+}
+
+.soulmate{
+  padding-left: 50px;
+}
